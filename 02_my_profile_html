@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Dream</title>
+</head>
+<body>
+
+    <h1 style="color:white; background-color:green; text-align: center;">
+        My Dream
+    </h1>
+    <p style="color:blue; font-size:20px;">
+        I want to become a software Engineer.</p>
+        <h2 style="color:brown; font-size:18px;">
+        <li> HTML</li>
+        <li> CSS</li>
+        <li> JavaScript</li>
+        <li> React</li>
+        </ul>
+        <p style="color:purple; text-align:center; font-size:22px;">
+            Thank you
+        </p>
+        </h2>
+    <h2>My Favourite Subjects</h2>
+    <p>My favourite subjects are HTML, CSS, JavaScript, and React</p>
+</body>
+</html>
